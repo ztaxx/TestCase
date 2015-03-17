@@ -1,12 +1,10 @@
 abcdefg 
 hijklmn anqi
-anqi
-opq
-rst
+
 uvw xyz
 qwerty
 
-9876543210
+
 jiayi jiayi
 
 
