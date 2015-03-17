@@ -1,6 +1,6 @@
-abcdefg 
+abcde
 hijklmn anqi
-OPQ
+OsQ
 RST
 uvw xyz
 qwerty
@@ -10,7 +10,7 @@ jiayi jiaii
 
 
 ABCDEFG
-HIJKLMN
+HIJLKNM
 
 UVW XYZ xuyao xuyao 
-QWERTY
+QWERTYY
